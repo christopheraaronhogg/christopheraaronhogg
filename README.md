@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @christopheraaronhogg
+- 👀 I’m interested in serving Jesus, learning to code, soccer, softball, and hiking
+- 🌱 I’m currently learning python, Dart, git, 
+- 📫 How to reach me christopheraaronhogg@gmail.com
